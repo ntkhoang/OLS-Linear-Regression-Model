@@ -1,5 +1,5 @@
 # Linear Regression Project
-##Project Overview
+## Project Overview
 This project implements a Linear Regression model in Python, covering the essential steps of data processing, model training, evaluation, and visualization. The primary objective is to predict target values based on the features provided in the dataset.
 
 ## Setup and Installation
